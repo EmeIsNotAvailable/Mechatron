@@ -271,7 +271,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 1
-  controlID: 56
+  controlID: 120
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -483,20 +483,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Sprites
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Sprites
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\marta\Desktop\Coses\Unity\Mechatron\Mechatron
+  m_LastProjectPath: C:\Users\marta\Documents\GitHub\Mechatron\Mechatron\Mechatron
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8e480000
-    m_LastClickedID: 18574
-    m_ExpandedIDs: 000000008e48000000ca9a3b
+    m_SelectedIDs: 58390000
+    m_LastClickedID: 14680
+    m_ExpandedIDs: 000000004439000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -524,7 +524,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000044390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,7 +551,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009a480000f4480000f0480000b839000080390000203d0000004700003a3b0000a6390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -647,9 +647,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: ecfaffff
+      m_SelectedIDs: 54faffff
+      m_LastClickedID: -1452
+      m_ExpandedIDs: 62fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -711,7 +711,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 1.4842972, y: 2.7516663, z: 9.6443}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -763,7 +763,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 14.221005
+    m_Value: 10
   m_Ortho:
     m_Target: 1
     speed: 2
