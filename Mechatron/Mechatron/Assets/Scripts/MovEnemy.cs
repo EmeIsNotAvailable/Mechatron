@@ -5,6 +5,7 @@ using UnityEngine;
 public class MovEnemy : MonoBehaviour
 {
     public float vel = 2.5f;
+    
     void Start()
     {
     }
@@ -18,7 +19,7 @@ public class MovEnemy : MonoBehaviour
     }
     public void MovimientoX()
     {
-        transform.Translate(-1, 0, 0);
+        transform.Translate(-1f, 0, 0);
         vel = -vel;
     }
 }

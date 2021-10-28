@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - Fondo
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -15,8 +16,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - fondo
+  - personajes
   - 
   - 
   - 
@@ -42,4 +43,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 385671619
+    locked: 0
+  - name: personajes
+    uniqueID: 2901428549
+    locked: 0
+  - name: balas
+    uniqueID: 1101505277
     locked: 0
